@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servidor", "Servidor", "{EDD286D0-1AD8-4E84-9779-6712907E4386}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cliente", "Cliente", "{338DF0A9-52AD-4D9C-A966-35A1E59CB55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.CALCULADORA.WS", "UNACH.CALCULADORA.WS\UNACH.CALCULADORA.WS.csproj", "{9800D8ED-2842-4931-BA07-A4C8B9CEF29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9800D8ED-2842-4931-BA07-A4C8B9CEF29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9800D8ED-2842-4931-BA07-A4C8B9CEF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9800D8ED-2842-4931-BA07-A4C8B9CEF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9800D8ED-2842-4931-BA07-A4C8B9CEF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9800D8ED-2842-4931-BA07-A4C8B9CEF29C} = {EDD286D0-1AD8-4E84-9779-6712907E4386}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88541E0-9719-444A-B84A-0C1EFBA3E5F1}
+	EndGlobalSection
+EndGlobal
